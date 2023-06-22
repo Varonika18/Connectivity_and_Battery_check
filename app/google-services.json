@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730489401973",
+    "project_id": "varonikarai-17d55",
+    "storage_bucket": "varonikarai-17d55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730489401973:android:cc5945e088089210c17e3c",
+        "android_client_info": {
+          "package_name": "com.example.napplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730489401973-561lu6j6d3f2s2fpih2af8h565te0ro8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAty_aG8vd0liqoXtVeRigiEmNSCgbHFH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730489401973-561lu6j6d3f2s2fpih2af8h565te0ro8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
